@@ -1,0 +1,1 @@
+mongoimport -db=spotify_2024 -collections=songs -file="C:\Users\Lawson\OneDrive\Desktop\Popular_Spotify_Songs.csv" --type=csv --jsonArray --headerline
